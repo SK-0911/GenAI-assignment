@@ -50,13 +50,3 @@ streamlit run app.py
 ```
 
 The app should open in a web browser at [http://localhost:8501].
-
-## Project Structure
-
-project_directory/
-│
-├── app.py                    # Main Streamlit app
-├── query_generator.py        # Contains function to load and use Llama model
-├── requirements.txt          # Dependencies for the project
-└── models/                   # Local model storage (optional)
-
